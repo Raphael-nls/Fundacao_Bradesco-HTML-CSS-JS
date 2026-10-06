@@ -27,13 +27,14 @@
     border-radius: 50%;
     border: none;
     color: var(--btnfrontcolor);
-    background-color: var (--btnBg);
+    background-color: var(--btnBg);
 }
 .btn:focus { outline-style: none; }
 
 body {
     font-family: monospace;
     background: var(--bg);
+    color: var(--frontcolor);
 }
 
 ul {
